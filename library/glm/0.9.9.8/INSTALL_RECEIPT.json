@@ -1,0 +1,39 @@
+{
+  "homebrew_version": "2.2.13-134-gd5ffb96",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "INSTALL_RECEIPT.json",
+    "lib/pkgconfig/glm.pc"
+  ],
+  "time": 1634843003,
+  "source_modified_time": 1586803244,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "0.9.9.8",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/glm.rb",
+    "tap_git_head": "bd4f7b62f711ba20f2bc58234a75251af523b454",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": null
+}
